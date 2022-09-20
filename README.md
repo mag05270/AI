@@ -1,2 +1,2 @@
-# AI
-AI相关技术资料及代码
+# 分享AI相关学习资料
+1.documents -ai-learn
